@@ -20,5 +20,12 @@
     "minimist": "^1.2.5",
     "ora": "^4.0.4",
     "request-promise": "^4.2.5"
+    "minimist": {
+  "version": "0.0.8",
+  "resolved": "https://registry.npmjs.org/minimist/-/minimist-0.0.8.tgz",
+  "integrity": "sha512-...",
+  "dev": true
+}
+
   }
 }
